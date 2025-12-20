@@ -2,6 +2,7 @@
 Style mods to MEH01 rotary encoder from https://github.com/EverydayErgo/MEH01
 
 The changes I've made are only slightly functional and mostly style-based.
+
 Functional: 
 The perimeter edge added to the model allows for positive seating in the socket beyond just the redention bumps.  I travel with my kbd and can't guarantee it won't be pressed inappropriately.
 The holes for the encoder wires were centered to align with the pins on the encoder (possibly a difference in how the model of encoder I used lines them up) to reduce stress on wires inside the body.
