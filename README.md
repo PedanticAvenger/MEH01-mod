@@ -24,7 +24,7 @@ I have a lot of curved surfaces in my Cosmos (https://ryanis.cool/cosmos) keyboa
 * Removed majority of right angles at edge interfaces which also reduced stress concentration points, thickened the wall that holds the rotational pin as well as balanced the opposite wall a little and smoothed a bunch of edges in general.
 
 Other:
-Will be putting a fusion .f3d file up here eventually once I'm fully happy with the tweaks so people can further iterate.  I think this design is fantastic and I have chanced none of the functional dimensions so this will fit in any existing MEH01 socket.
+Will be putting a fusion .f3d file up here eventually once I'm fully happy with the tweaks so people can further iterate.  I think this design is fantastic and I have chanced none of the functional dimensions so this will fit in any existing MEH01 socket.  If you have suggestions to further improve this direction please let me know!
 
 The models.
 Snaps from Fusion as the PCTG models I printed are dark and shiny as heck and make for terrible photos.
