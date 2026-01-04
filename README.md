@@ -14,8 +14,8 @@ Functional Modifications:
 + The button retention design was changed including:
   + Removed the internal edge retaining the switch, there is little to no side to side forces inside the body and the wire retention keeps the switch in place.
   + Tapered the cutout in the wall to allow for the solder tabs on the switch to fit and have the top keep the switch aligned.
-  + increased some clearances, likely to accomodate the FDM process or the specifics on the switch component I got from Ali.
-+ Created a version of the encoder knob that allows for insertion of a 1/16" piece of hex key shaft in place of the printed plastic piece.  I didn't have any problems with the printed version but again, I travel with my kbd and the risk of forces perpendicular to the axis of the encover breaking it bothered me.
+  + Increased some clearances, likely to accomodate the FDM process or the specifics on the switch component I got from Ali.
++ Created a version of the encoder knob pwrt that allows for insertion of a 1/16" piece of hex key shaft in place of the printed plastic piece.  I didn't have any problems with the printed version but again, I travel with my kbd and the risk of forces perpendicular to the axis of the encover breaking it bothered me.  This change can be filed under individual paranoia if desired or used.  I got a set of 1/16" hex wrenches from Amazon/Ali and just cut them off and clean them up with either a file or a dremel cutoff wheel.
 
 Stylistic Modifications:  
 
