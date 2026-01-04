@@ -28,7 +28,7 @@ Will be putting a fusion .f3d file up here eventually once I'm fully happy with 
 
 The models.
 Snaps from Fusion as the PCTG models I printed are dark and shiny as heck and make for terrible photos.
-![Main Body](https://github.com/PedanticAvenger/MEH01-mod/blob/maain/images/MEH01-Mod-1.png?raw=true "Modified Body - 1")
-![Main Body](https://github.com/PedanticAvenger/MEH01-mod/blob/maain/images/MEH01-Mod-4.png?raw=true "Modified Body - 2")
-![Modified Roller](https://github.com/PedanticAvenger/MEH01-mod/blob/maain/images/MEH01-Mod-2.png?raw=true "Modified Roller - 1")
-![Modified Roller](https://github.com/PedanticAvenger/MEH01-mod/blob/maain/images/MEH01-Mod-3.png?raw=true "Modified Roller - 2")
+![Main Body](https://github.com/PedanticAvenger/MEH01-mod/blob/main/images/MEH01-Mod-1.png?raw=true "Modified Body - 1")
+![Main Body](https://github.com/PedanticAvenger/MEH01-mod/blob/main/images/MEH01-Mod-4.png?raw=true "Modified Body - 2")
+![Modified Roller](https://github.com/PedanticAvenger/MEH01-mod/blob/main/images/MEH01-Mod-2.png?raw=true "Modified Roller - 1")
+![Modified Roller](https://github.com/PedanticAvenger/MEH01-mod/blob/main/images/MEH01-Mod-3.png?raw=true "Modified Roller - 2")
