@@ -1,9 +1,9 @@
 # MEH01-mod
 Mods to MEH01 rotary encoder from https://github.com/EverydayErgo/MEH01
 
-The changes made are listed below.
-No changes interfere with interpoperatiliby with base MEH01 parts and are meant to be only slightly functional and primarily style-based changes from original.
-I create these using FDM printing and not resin SLA so these changes may not be as valuable to folks in SLA scenarios.  My primary motivation for the changes started with assembly challenges in my setup mostly fitting the select button into the frame and clearance challenges and making several of these for folks thus wanting to make assembly easier.  This led to a rabbit hole of tweaks.  It must be mentioned that I overall see no problems with the original design in a purely functional sense and these mods are driven by my specific utilization of the design and my printer/workflow/etc..
+The changes made are detailed below.
+None of these changes should interfere with interoperatiliby with base MEH01 parts and are meant to be only a slight functional change and are primarily style-based changes from the original.
+I create these using a Bambu P1S (usually PCTG filament) and not resin SLA so these changes may not be as valuable to folks in SLA scenarios or even FDM with other filaments.  My primary motivation for the changes started with assembly challenges in my setup, mostly fitting the select button into the frame and clearance challenges as well as making several of these for folks thus wanting to make assembly easier.  This led to a rabbit hole of tweaks.  It must be mentioned that I overall see no problems with the original design in a purely functional sense and these mods are driven by my specific utilization of the design and my printer/workflow/etc..
 
 Functional Modifications:
 
@@ -24,7 +24,7 @@ I have a lot of curved surfaces in my Cosmos (https://ryanis.cool/cosmos) keyboa
 * Removed majority of right angles at edge interfaces which also reduced stress concentration points, thickened the wall that holds the rotational pin as well as balanced the opposite wall a little and smoothed a bunch of edges in general.
 
 Other:
-Will be putting a fusion .f3d file up here eventually once I'm fully happy with the tweaks so people can further iterate.  I think this design is fantastic and I have chanced none of the functional dimensions so this will fit in any existing MEH01 socket.  If you have suggestions to further improve this direction please let me know!
+Will be putting a fusion .f3d file up here once I'm fully happy with the tweaks so people can further iterate.  I think this original design is fantastic and I have changed none of the functional dimensions so this will fit in any existing MEH01 socket.  If you have suggestions to further improve this direction please let me know!
 
 The models.
 Snaps from Fusion as the PCTG models I printed are dark and shiny as heck and make for terrible photos.
